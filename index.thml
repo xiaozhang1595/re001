@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(135deg, #4bc0c8, #c779d0, #feac5e);
+
+            .box {
+                height: 80vh;
+                width: 70%;
+                max-width: 600px;
+                background-color: #fff;
+                padding: 30px;
+                border-radius: 4px;
+                box-shadow:
+                    rgb(0 0 0 / 20%) 0px 2px 1px -1px,
+                    rgb(0 0 0 / 14%) 0px 1px 1px 0px,
+                    rgb(0 0 0 / 12%) 0px 1px 3px 0px;
+                word-wrap: break-word;
+                hyphens: auto;
+                text-align: justify;
+                color: #333;
+                font-size: 17px;
+                line-height: 1.7;
+                letter-spacing: 0.034em;
+                font-family: "思源黑体";
+                overflow-y: scroll;
+            }
+
+        }
+    </style>
+</head>
+
+<body>
+    <div class="box">
+        <div style="text-align: center;"><b>致深爱的雨洁</b></div>
+        <div style="text-indent: 2em;">
+            <p>雨洁，我们认识是在2019年8月28日的下午。距今已经一年多了。那天我开学，在宿舍里跟风室友，用soul匹配聊天。</p>
+            <p>感谢soul，让我和你相识。或许是命运的安排，我们一直走到今天，我对你的感觉，很奇妙，你对我来说，是快乐的源泉，是心灵的港湾，让我在这阴冷的世界里不再感到寒冷和孤单；可你也让我苦恼，让我有了牵挂。我不知道这是不是喜欢，我知道我是个小孩。
+            </p>
+            <p>我在等风来。</p>
+            <p>我们来自不同的地方，都有各自的宇宙，或许你的生活多姿多彩，我的存在只是你绘画时不小心涂抹的颜料，</p>
+            <p>我不算个优秀的同学，我不自信，我不知道能和你一路走到哪里。长辈说：时间和距离都不会是问题，希望自己能坚持到底。</p>
+            <p>写代码真的还是有点难度，因为你，我才有坚持下去的动力</p>
+            <p>现在我已经毕业了，我想，这是一个全新的开始，写下这一段，也是想送给你一份小礼物，祝你生日快乐，我就要来找你啦</p>
+            <p>我爱你</p>
+        </div>
+        <div>
+            <img src="https://ts1.cn.mm.bing.net/th/id/R-C.eb647d025ad739f944ce079fb1dc8789?rik=xHmx%2bgWtvToYbQ&riu=http%3a%2f%2fwww.kuaipng.com%2fUploads%2fpic%2fwater%2f38363%2fgoods_water_38363_698_698_.png&ehk=kG%2btk%2f23FBS%2fS4cauw0ZzeUY%2bmlA17efHzIJUsqA2aM%3d&risl=&pid=ImgRaw&r=0"
+                alt="" height="200px
+ width200px">
+        </div>
+
+        <p style="text-align:right;">爱你的文成</p>
+        <p style="text-align:right">2024年6月16日</p>
+
+
+</body>
+
+</html>
